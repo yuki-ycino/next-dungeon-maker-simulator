@@ -1,4 +1,4 @@
-import { combineReducers } from "redux-starter-kit"
+import { combineReducers } from "@reduxjs/toolkit"
 
 import { mapModule } from "./modules/map"
 import { roomModalModule } from "./modules/room-modal"
