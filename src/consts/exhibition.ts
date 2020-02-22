@@ -81,8 +81,7 @@ export const exhibition: MapType = {
           bottom: false,
           left: true,
           right: false
-        },
-        shrine: true
+        }
       },
       {
         enable: true,

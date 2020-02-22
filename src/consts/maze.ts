@@ -13,8 +13,7 @@ export const maze: MapType = {
           bottom: true,
           left: false,
           right: false
-        },
-        shrine: true
+        }
       },
       {
         enable: true,
@@ -156,8 +155,7 @@ export const maze: MapType = {
           bottom: true,
           left: false,
           right: false
-        },
-        shrine: true
+        }
       },
       {
         enable: true,

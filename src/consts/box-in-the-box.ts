@@ -50,8 +50,7 @@ export const boxInTheBox: MapType = {
           bottom: true,
           left: true,
           right: true
-        },
-        shrine: true
+        }
       }
     ],
     [
@@ -234,8 +233,7 @@ export const boxInTheBox: MapType = {
           bottom: false,
           left: true,
           right: true
-        },
-        shrine: true
+        }
       }
     ]
   ]

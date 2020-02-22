@@ -95,8 +95,7 @@ export const pause: MapType = {
           bottom: true,
           left: true,
           right: false
-        },
-        shrine: true
+        }
       },
       {
         enable: true,
@@ -105,8 +104,7 @@ export const pause: MapType = {
           bottom: true,
           left: false,
           right: true
-        },
-        shrine: true
+        }
       },
       {
         enable: true,
@@ -125,8 +123,7 @@ export const pause: MapType = {
           bottom: true,
           left: true,
           right: false
-        },
-        shrine: true
+        }
       },
       {
         enable: true,
@@ -135,8 +132,7 @@ export const pause: MapType = {
           bottom: true,
           left: false,
           right: true
-        },
-        shrine: true
+        }
       }
     ],
     [

@@ -13,8 +13,7 @@ export const vortex: MapType = {
           bottom: true,
           left: false,
           right: false
-        },
-        shrine: true
+        }
       },
       {
         enable: true,
@@ -50,8 +49,7 @@ export const vortex: MapType = {
           bottom: false,
           left: true,
           right: true
-        },
-        shrine: true
+        }
       }
     ],
     [
@@ -204,8 +202,7 @@ export const vortex: MapType = {
           bottom: false,
           left: false,
           right: true
-        },
-        shrine: true
+        }
       },
       {
         enable: true,
@@ -241,8 +238,7 @@ export const vortex: MapType = {
           bottom: false,
           left: false,
           right: true
-        },
-        shrine: true
+        }
       }
     ]
   ]

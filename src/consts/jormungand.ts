@@ -25,8 +25,7 @@ export const jormungand: MapType = {
           bottom: true,
           left: false,
           right: true
-        },
-        shrine: true
+        }
       }
     ],
     [
@@ -72,8 +71,7 @@ export const jormungand: MapType = {
           bottom: false,
           left: true,
           right: true
-        },
-        shrine: true
+        }
       },
       {
         enable: true,
@@ -180,8 +178,7 @@ export const jormungand: MapType = {
           bottom: false,
           left: true,
           right: false
-        },
-        shrine: true
+        }
       }
     ]
   ]
